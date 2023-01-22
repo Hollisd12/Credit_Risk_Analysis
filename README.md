@@ -13,7 +13,7 @@ Use python to evaluate several machine learning models to predict credit risk an
 
 ### RandomOverSampler
 
-(image)
+![RandomOversampling](https://user-images.githubusercontent.com/112137694/213941899-3518b108-a453-41ee-be88-beaa19d657e2.png)
 
 - Balanced Accuracy Score: 62.9%
 - Precision for high risk: 1%
@@ -23,7 +23,7 @@ Use python to evaluate several machine learning models to predict credit risk an
 
 ### Smote
 
-(image)
+![SMOTEOversampling](https://user-images.githubusercontent.com/112137694/213941908-8d30af61-12e3-468b-ac2c-a6d4171bc339.png)
 
 - Balanced Accuracy Score: 62.8%
 - Precision for high risk: 1%
@@ -33,7 +33,7 @@ Use python to evaluate several machine learning models to predict credit risk an
 
 ### ClusterCentroids
 
-(image)
+![ClusterCentroidsUndersampling](https://user-images.githubusercontent.com/112137694/213941918-20e43b52-7c96-4c3b-ad6b-80a9517734b4.png)
 
 - Balanced Accuracy Score: 51.6%
 - Precision for high risk: 1%
@@ -43,7 +43,7 @@ Use python to evaluate several machine learning models to predict credit risk an
 
 ### SMOTEENN
 
-(image)
+![SMOTEENN](https://user-images.githubusercontent.com/112137694/213941922-7766acf3-74a1-4929-97ad-5f8043db34ba.png)
 
 - Balanced Accuracy Score: 64.1%
 - Precision for high risk: 1%
@@ -53,7 +53,7 @@ Use python to evaluate several machine learning models to predict credit risk an
 
 ### BalancedRandomForestClassifier
 
-(image)
+![BalancedRandomForestClassifier](https://user-images.githubusercontent.com/112137694/213941925-b29c5830-8ca7-489b-b9fd-ae4c249cac5e.png)
 
 - Balanced Accuracy Score: 78.7%
 - Precision for high risk: 3%
@@ -63,7 +63,7 @@ Use python to evaluate several machine learning models to predict credit risk an
 
 ### EasyEnsembleClassifier
 
-(image)
+![EasyEnsembleAdaBoostClassifier](https://user-images.githubusercontent.com/112137694/213941929-7b021294-5f5d-4f86-870c-5a3caca1f2de.png)
 
 - Balanced Accuracy Score: 92.5%
 - Precision for high risk: 7%
